@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋
 #### as of *2026.08.01*
-
-<img width="1382" height="1391" alt="graphify_260801" src="https://github.com/user-attachments/assets/455de2e1-f77e-43ac-a2e0-4e18d1cb2c68" />
+<img width="1174" height="1109" alt="graphify_260801_1" src="https://github.com/user-attachments/assets/234ced60-ebcd-462d-955c-64f562e51fe6" />
