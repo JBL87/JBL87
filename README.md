@@ -1,10 +1,6 @@
-## Hi there 👋
-
 <!--
 **JBL87/JBL87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi there 👋
+#### as of *2026.08.01*
+
+<img width="1382" height="1391" alt="graphify_260801" src="https://github.com/user-attachments/assets/455de2e1-f77e-43ac-a2e0-4e18d1cb2c68" />
