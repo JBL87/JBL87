@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi there 👋
-#### as of *2026.09.08*
-<img width="1449" height="1407" alt="graphify_260908" src="https://github.com/user-attachments/assets/092e66c6-f6db-472a-baf5-e18ea0ffbdc5" />
+#### as of *2026.10.11*
+<img width="1070" height="966" alt="graphify_261011" src="https://github.com/user-attachments/assets/00230f2c-c107-44a6-930a-20cb159571f3" />
